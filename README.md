@@ -109,7 +109,7 @@ This additional feature allows for easier analysis of purchasing patterns by age
 
 This Pivot Table analyzes the relationship between customer income, gender, and bike purchasing behavior.
 
-![Average Income Pivot](images/3. pivot_income.png)
+![Average Income Pivot](3. pivot_income.png)
 
 ---
 
