@@ -167,10 +167,12 @@ excel-bike-sales-dashboard/
 ├── Bike Sales Dashboard.xlsx
 │
 └── images/
-    ├── raw_data.png
-    ├── cleaned_data.png
-    ├── pivot_tables.png
-    └── dashboard.png
+    ├── 1. raw_data.png
+    ├── 2. cleaned_data.png
+    ├── 3. pivot_income.png
+    ├── 4. pivot_commute.png
+    ├── 5. pivot_age_brackets.png
+    └── 6. dashboard.png
 ```
 
 ---
