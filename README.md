@@ -77,7 +77,7 @@ Several data cleaning steps were performed:
 
 ### Cleaned Dataset
 
-![Cleaned Dataset](images/2.cleaned_data.png)
+![Cleaned Dataset](images/2_cleaned_data.png)
 
 ---
 
@@ -109,7 +109,7 @@ This additional feature allows for easier analysis of purchasing patterns by age
 
 This Pivot Table analyzes the relationship between customer income, gender, and bike purchasing behavior.
 
-![Average Income Pivot](3. pivot_income.png)
+![Average Income Pivot](3_pivot_income.png)
 
 ---
 
@@ -117,7 +117,7 @@ This Pivot Table analyzes the relationship between customer income, gender, and 
 
 This Pivot Table examines how commute distance influences bike purchase decisions.
 
-![Commute Pivot](images/4. pivot_commute.png)
+![Commute Pivot](images/4_pivot_commute.png)
 
 ---
 
@@ -125,7 +125,7 @@ This Pivot Table examines how commute distance influences bike purchase decision
 
 This Pivot Table summarizes bike purchases across different age groups.
 
-![Age Brackets Pivot](images/5. pivot_age_brackets.png)
+![Age Brackets Pivot](images/5_pivot_age_brackets.png)
 
 ---
 
@@ -155,7 +155,7 @@ Dashboard filters include:
 
 ### Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/6_dashboard.png)
 
 ---
 
@@ -178,12 +178,12 @@ excel-bike-sales-dashboard/
 ├── Bike Sales Dashboard.xlsx
 │
 └── images/
-    ├── 1. raw_data.png
-    ├── 2. cleaned_data.png
-    ├── 3. pivot_income.png
-    ├── 4. pivot_commute.png
-    ├── 5. pivot_age_brackets.png
-    └── 6. dashboard.png
+    ├── 1_raw_data.png
+    ├── 2_cleaned_data.png
+    ├── 3_pivot_income.png
+    ├── 4_pivot_commute.png
+    ├── 5_pivot_age_brackets.png
+    └── 6_dashboard.png
 ```
 
 ---
@@ -206,4 +206,4 @@ excel-bike-sales-dashboard/
 **Sean Kenneth Handoyo**
 
 - GitHub: https://github.com/seankh06
-- LinkedIn: (Add your LinkedIn profile here)
+- LinkedIn: https://www.linkedin.com/in/seankennethhandoyo/
