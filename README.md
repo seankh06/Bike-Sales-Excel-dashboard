@@ -77,7 +77,7 @@ Several data cleaning steps were performed:
 
 ### Cleaned Dataset
 
-![Cleaned Dataset](images/2. cleaned_data.png)
+![Cleaned Dataset](images/2.cleaned_data.png)
 
 ---
 
