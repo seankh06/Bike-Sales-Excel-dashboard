@@ -60,7 +60,7 @@ To preserve the integrity of the raw data, a duplicate worksheet was created bef
 
 The image below shows a sample of the first few rows from the original dataset.
 
-![Raw Dataset](images/raw_data.png)
+![Raw Dataset](images/1. raw_data.png)
 
 ---
 
@@ -77,7 +77,7 @@ Several data cleaning steps were performed:
 
 ### Cleaned Dataset
 
-![Cleaned Dataset](images/cleaned_data.png)
+![Cleaned Dataset](images/2. cleaned_data.png)
 
 ---
 
@@ -105,19 +105,30 @@ This additional feature allows for easier analysis of purchasing patterns by age
 
 ### 4. Pivot Table Analysis
 
-Pivot Tables were created to summarize and analyze customer behavior.
+### 1. Average Income per Purchase
 
-#### Analysis Performed:
+This Pivot Table analyzes the relationship between customer income, gender, and bike purchasing behavior.
 
-- Average Income by Gender and Purchase Status
-- Customer Count by Commute Distance
-- Customer Count by Age Bracket
-
-### Pivot Table Preview
-
-![Pivot Tables](images/pivot_tables.png)
+![Average Income Pivot](images/3. pivot_income.png)
 
 ---
+
+### 2. Customer Commute Distance
+
+This Pivot Table examines how commute distance influences bike purchase decisions.
+
+![Commute Pivot](images/4. pivot_commute.png)
+
+---
+
+### 3. Customer Age Brackets
+
+This Pivot Table summarizes bike purchases across different age groups.
+
+![Age Brackets Pivot](images/5. pivot_age_brackets.png)
+
+---
+
 
 ### 5. Data Visualization
 
