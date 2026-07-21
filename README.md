@@ -60,7 +60,7 @@ To preserve the integrity of the raw data, a duplicate worksheet was created bef
 
 The image below shows a sample of the first few rows from the original dataset.
 
-![Raw Dataset](images/1.raw_data.png)
+![Raw Dataset](images/1_raw_data.png)
 
 ---
 
